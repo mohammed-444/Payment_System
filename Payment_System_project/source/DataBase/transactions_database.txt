@@ -1,0 +1,16 @@
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/25	 transaction amount:5000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:1	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/25	 transaction amount:5000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:2	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/26	 transaction amount:1000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:1000.000000	 transaction date:27/08/2022	 transState:2
+transactionSequenceNumber:1	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/26	 transaction amount:1000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/26	 transaction amount:1000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/25	 transaction amount:1000.000000	 transaction date:27/08/2022	 transState:0
+transactionSequenceNumber:0	 Card holder name:Hesham Gamal Abd-Elhady	 PAN:1123456789123456789	 cardExpirationDate:05/22	 transaction amount:500.000000	 transaction date:27/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohamed Mansor AbdElmagd	 PAN:3123456789123456789	 cardExpirationDate:01/28	 transaction amount:10000.000000	 transaction date:27/08/2022	 transState:5
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
+transactionSequenceNumber:0	 Card holder name:Mohammed Alaa AbdElkader	 PAN:0123456789123456789	 cardExpirationDate:05/22	 transaction amount:7000.000000	 transaction date:28/08/2022	 transState:2
